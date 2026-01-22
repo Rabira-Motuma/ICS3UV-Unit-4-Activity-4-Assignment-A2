@@ -24,8 +24,8 @@ let number2: number;
 let answer: number
 
 // introduction
-console.log("Welcome to my calculator program.")
-console.log("Which operation would you like to perform today? (Select by typing the letter in front of the operation.)")
+console.log("Welcome to my calculator program.");
+console.log("Which operation would you like to perform today? (Select by typing the letter in front of the operation.)");
 console.log("a. add");
 console.log("b. subtract");
 console.log("c. multiply");
